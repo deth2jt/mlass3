@@ -1,4 +1,3 @@
-#https://github.com/nborwankar/LearnDataScience/blob/master/notebooks/D3.%20K-Means%20Clustering%20Analysis.ipynb
 import numpy as np
 import pandas as pd
 from scipy.cluster.vq import kmeans,vq
